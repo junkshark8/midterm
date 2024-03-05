@@ -12,7 +12,7 @@ The frontend uses plain javascript for the user to implement CRUD operations. It
 
 #### Demo
 The following gif demonstrates the CRUD operations of the app.
-<img scr = "demo.gif">
+<img src = "demo.gif">
 
 #### Future plans
 If I were to continue working on this project I would implement several things to make it better.
